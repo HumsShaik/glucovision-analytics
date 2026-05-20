@@ -1,0 +1,7 @@
+metric,value
+baseline_mae,44.70558409802117
+baseline_rmse,57.08599665823378
+baseline_r2,-7.4774910965302865e-06
+random_forest_mae,1.788750673769989
+random_forest_rmse,4.056147382443357
+random_forest_r2,0.9949513934569256

@@ -363,7 +363,7 @@ Potential future enhancements:
 
 # 👨‍💻 Author
 
-## Hums Shaik
+## Humera Anjum
 
 Python • Data Analytics • Machine Learning • Healthcare Analytics
 

@@ -291,7 +291,7 @@ https://your-streamlit-app-link.streamlit.app
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/glucovision-analytics.git
+git clone https://github.com/HumsShaik/glucovision-analytics.git
 ```
 
 ## 2. Navigate to Project Folder
